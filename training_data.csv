@@ -1,0 +1,6 @@
+Sky,Temperature,Humidity,Wind,Water,Forecast,Condition
+Sunny,Warm,Normal,Strong,Warm,Same,Yes
+Sunny,Cold,High,Strong,Warm,Same,No
+Rainy,Warm,High,Weak,Cool,Change,No
+Sunny,Warm,Normal,Strong,Warm,Same,Yes
+Rainy,Cold,Normal,Weak,Cool,Change,No
