@@ -1,3 +1,9 @@
+(Below command downlod the pkg aslo run and install jupyter
+
+python -m pip install seaborn
+python -m pip install notebook
+python -m pip install pandas numpy seaborn matplotlib
+jupyter notebook)
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
